@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31f54b4535f2d4478541040c0542f84, type: 3}
+  m_Name: Helmet
+  m_EditorClassIdentifier: 
+  category: 1
+  type: 0
+  name: Helmet
+  description: Heavy helmet
+  artwork: {fileID: 21300000, guid: fd6e4fc32c78509458fc45ea4a478ba8, type: 3}
+  amount: 1
+  strength: 2
+  dexterity: 2
+  intelligence: 2
+  minDamage: 0
+  maxDamage: 0
+  isRanged: 0
+  isTwoHanded: 0
+  armour: 2

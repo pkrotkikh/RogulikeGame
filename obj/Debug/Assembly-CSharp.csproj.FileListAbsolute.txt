@@ -1,0 +1,1 @@
+C:\Users\Pefren\unityProjects\Games\06Roguelike\MyOwnRogulike\MyOwnRogulike\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
